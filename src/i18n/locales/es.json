@@ -1,0 +1,9 @@
+{
+  "common": {
+    "react-translator-lucas": "El tradutor Lucas",
+    "login": {
+      "forgot-password": "Olvidaste tu contraseña",
+      "sigin": "Iniciar sesión"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "common": {
+    "react-translator-lucas": "React translator lucas",
+    "login": {
+      "forgot-password": "Forgot password",
+      "sigin": "Sigin"
+    }
+  }
+}

@@ -1,0 +1,1 @@
+export const ENDPOINT_API = process.env.ENDPOINT_API;

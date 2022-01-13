@@ -1,0 +1,9 @@
+{
+  "common": {
+    "react-translator-lucas": "Trador em React Lucas",
+    "login": {
+      "forgot-password": "Esqueci minha senha?",
+      "sigin": "Entrar"
+    }
+  }
+}
